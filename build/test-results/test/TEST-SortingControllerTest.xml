@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SortingControllerTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2023-07-07T03:28:22" hostname="Margarets-MacBook-Air.local" time="0.061">
+  <properties/>
+  <testcase name="testSortArray_ValidInput()" classname="SortingControllerTest" time="0.024"/>
+  <testcase name="testGetSortingAlgorithm_ValidDiceRoll()" classname="SortingControllerTest" time="0.004"/>
+  <testcase name="testSortArray_NullArray()" classname="SortingControllerTest" time="0.003"/>
+  <testcase name="testParseInputArray_InvalidInput()" classname="SortingControllerTest" time="0.002"/>
+  <testcase name="testGetSortingStrategy_ValidSortMethod()" classname="SortingControllerTest" time="0.003"/>
+  <testcase name="testGetSortingStrategy_InvalidSortMethod()" classname="SortingControllerTest" time="0.003"/>
+  <testcase name="testParseInputArray_ValidInput()" classname="SortingControllerTest" time="0.001"/>
+  <testcase name="testGetSortingAlgorithm_InvalidDiceRoll()" classname="SortingControllerTest" time="0.001"/>
+  <testcase name="testSortArray_NullStrategy()" classname="SortingControllerTest" time="0.001"/>
+  <testcase name="testSortArray_EmptyArray()" classname="SortingControllerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
